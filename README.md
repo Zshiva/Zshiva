@@ -13,3 +13,18 @@
 ---
 
 ## 🎮 2026 Coding Challenge
+*View my actual GitHub activity:*  
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zshiva&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true)](https://github.com/zshiva)
+
+---
+
+## 🚀 What I Do
+
+- Build **secure** backend systems
+- Design **clean** architectures
+- Write **testable** code
+- Deploy to **production**
+
+---
+
+## 💾 Tech Stack
